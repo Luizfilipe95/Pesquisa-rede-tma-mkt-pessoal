@@ -1,2 +1,2 @@
-# RedeTMA pesquisa.magnetismo.pessoal
+# RedeTMA pesquisa.magnetismo
 
